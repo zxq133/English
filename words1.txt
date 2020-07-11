@@ -1,0 +1,20 @@
+Unit1:
+1.state		n.状态，情况，国，州
+		v.陈述，表明，说明，规定
+2.statute		n.法令，法规
+3.manifestation	n.示威行动，显示，表现
+4.statistic		n.统计数值
+		adj.统计学的，统计的
+5.statistical	adj.统计的，统计学的
+6.stationary	adj.固定的，静止的，不动的
+7.statement	n.陈述，声明，表现，表达
+8.understatement	n.不充分的陈述，保守陈述，轻描淡写
+9.overstate	v.夸张，夸大叙述
+10.statesman	n.政治家
+11.estate		n.房地产，身份，财产
+12.devastste	v.破坏，毁坏，毁灭
+13.devastating	adj.毁灭性的，极具破坏性的
+14.workstation	n.工作台
+15.status		n.地位，情形，状况，重要身份
+16.assert		v.坚称，断言，表明
+17.affirm		v.断崖，肯定，证实
